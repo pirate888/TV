@@ -3,6 +3,9 @@
             "url": "http://9xi4o.tk/0725.json",
             "name": "⛽️默认源"
         }, {
+            "url": "https://0dlj.cn/yyds",
+            "name": "🌅多多"
+        }, {
             "url": "http://miaotvs.cn/meow",
             "name": "🚧猫影视"
         }, {
@@ -21,8 +24,21 @@
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🖼云星一号"
         }, {
-            "url": "https://0dlj.cn/yyds",
-            "name": "🌅多多"
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐅云星阿里"
+        }, {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🐼猫影TV盒"
+        }, {
+            "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
+            "name": "🍘gitcode/kuukry"
+        }, {
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "name": "🐰星辰"
+        }, {
+            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+            "name": "🛣家庭线路",
+            "time": "2022-08-26 02:00:00"
         }, {
             "url": "https://hk.kstore.space/download/3092/bc.json",
             "name": "🎸线路2"
@@ -66,24 +82,6 @@
             "url": "http://127.0.0.1:8080/a9.json",
             "name": "💒本地9"
         }
-		
-//      }, {
-//          "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
-//          "name": "🐼猫影TV盒"
-//      }, {
-//          "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
-//          "name": "🍘gitcode/kuukry"
-//      }, {
-//          "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-//          "name": "🐅云星阿里"
-//      }, {
-//          "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-//          "name": "🐰星辰"
-//      }, {
-//          "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-//          "name": "🛣家庭线路",
-//          "time": "2022-08-26 02:00:00"
-//      }, {
 
     ],
     "vip": [{
