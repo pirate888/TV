@@ -35,8 +35,9 @@
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🐼猫影TV盒"
         }, {
-            "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
-            "name": "🍘gitcode/kuukry"
+            "url": "https://raw.iqiq.io/pirate888/JS/main/js.json",
+            "name": "🍘MyJS",
+            "time": "2022-10-27 12:00:00"
         }, {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🛣终南干货群",
