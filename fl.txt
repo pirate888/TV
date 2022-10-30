@@ -1,15 +1,12 @@
 ﻿{
     //"spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
     "sites": [
-        
-		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []
-		},
-        {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []},
+		{"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+		{"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
-				
-],
-  "lives": [
+	],
+	"lives": [
     {
       "group": "redirect",
       "channels": [
@@ -21,8 +18,7 @@
         }
       ]
     }
-  ],
-
+	],
     "parses": [
         { "name": "Json轮询", "type": 2, "url": "Sequence" },
         { "name": "Jsonaiaine", "type": 1, "url": "http://www.aiaine.com/api/?key=zJQvr5baYHz7vpNSy9&url=" },
@@ -40,7 +36,7 @@
         "mgtv",
         "wasu",
         "bilibili" 
-        ], 
+	], 
     "ijk": [ 
         { "group": "软解码","options": [
         { "category": 4, "name": "opensles", "value": "0" },
@@ -78,7 +74,7 @@
         { "category": 4, "name": "mediacodec-hevc", "value": "1" }
         ]
         }
-        ],
+	],
     "ads":[
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
@@ -137,5 +133,5 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
-        ]
-        }
+	]
+}
