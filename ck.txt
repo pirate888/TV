@@ -59,7 +59,7 @@
             "url": "http://www.dmtv.ml/mao/single.json",
             "name": "🌊线路5"
         }, {
-            "url": "https://pastebin.com/raw/gtbKvnE1",
+            "url": "https://raw.githubusercontent.com/pirate888/TV/main/fl.txt",
             "name": "🛀🏻线路6"
         }, {
             "url": "http://127.0.0.1:8080/a1.json",
