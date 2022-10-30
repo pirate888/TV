@@ -1,13 +1,14 @@
 ﻿{
     //"spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
     "sites": [
-        {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://raw.githubusercontent.com/pirate888/TV/main/kk.txt","searchable":0,"quickSearch":0},
+        //{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://raw.githubusercontent.com/pirate888/TV/main/kk.txt","searchable":0,"quickSearch":0},
+		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []
+		},
         {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+        {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 		
-		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []
-		}
+
 		
 ],
   "lives": [
