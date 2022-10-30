@@ -1,81 +1,28 @@
 ﻿{
     //"spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
     "sites": [
-        
-        { "key": "博天堂", "name": "博天堂18x", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+        {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://raw.githubusercontent.com/pirate888/TV/main/kk.txt","searchable":0,"quickSearch":0},
         {"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
-        {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key": "精工厂","name": "精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {
-      "key": "影库资源",
-      "name": "影库资源",
-      "type": 1,
-      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-      "tag": "qb,tj",
-      "categories": []
-    }, 
-    {
-      "key": "美少女",
-      "name": "美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "佳丽",
-      "name": "佳丽",
-      "type": 1,
-      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "AVZY",
-      "name": "AVZY",
-      "type": 1,
-      "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "(18+)浪潮资源", 
-      "name": "(18+)浪潮资源", "type": 1,
-      "api": "http://langchaozy6.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0 
-    } 
+		
+		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []
+		}
+		
 ],
-
-# 直播
-    "lives": [
-        { "group": "电影轮播", "channels": [ 
-        { "name": "周星星","urls": [ "http://wabc.ml/huya.php?id=11342412" ] }, 
-        { "name": "经典贺岁片", "urls": [ "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8" ] },
-        { "name": "古天乐影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8" ] },
-        { "name": "成龙作品集", "urls": [ "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8" ] },
-        { "name": "张国荣作品集", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8" ] },
-        { "name": "周润发影院", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8" ] },
-        { "name": "云上电影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8" ] },
-        { "name": "刘德华影院", "urls": [ "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8" ] },
-        { "name": "刘亦菲影视展播", "urls": [ "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8" ] },
-        { "name": "TVB剧场", "urls": [ "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8" ] },
-        { "name": "盗墓方法论", "urls": [ "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8" ] },
-        { "name": "试胆大会", "urls": [ "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8" ] },
-        { "name": "军旅剧场", "urls": [ "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8" ] },
-        { "name": "SNH48剧场公演", "urls": [ "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8" ] },
-        { "name": "追剧少女", "urls": [ "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8" ] }
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1NjMxMzUzNi50eHQ="
+          ]
+        }
       ]
     }
   ],
-
 
     "parses": [
         { "name": "Json轮询", "type": 2, "url": "Sequence" },
