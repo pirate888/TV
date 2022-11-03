@@ -1,12 +1,14 @@
 ﻿{
     //"spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
     "sites": [
-		{"key": "影库资源","name": "影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []},
-		{"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-		{"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
-	],
-	"lives": [
+	{"key": "影库资源","name": "🚀影库资源","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag": "qb,tj","categories": []},
+	{"key":"*酷伦理","name":"*🥇酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+	{"key":"*影库资源","name":"🚀*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+        {"key":"*CK资源","name":"🏆CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+	{"key": "csp_biubiu_真不卡","name": "🍀真不卡","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/真不卡影院.json"},
+    {"key": "csp_biubiu_真不卡2","name": "🍀真不卡2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/真不卡影院2.json"}
+    ],
+    "lives": [
     {
       "group": "redirect",
       "channels": [
