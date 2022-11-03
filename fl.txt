@@ -9,11 +9,11 @@
 		{"key":"*影库资源","name":"🚀*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
 		{"key":"*CK资源","name":"🏆CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 		
-		{"key": "csp_biubiu_真不卡","name": "🍀真不卡","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/真不卡影院.json"},
+		{"key": "csp_biubiu_真不卡","name": "🍀真不卡","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/pirate888/TV/main/json/真不卡影院.json"},
 		
-		{"key": "csp_biubiu_真不卡2","name": "🍀真不卡2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/真不卡影院2.json"},
+		{"key": "csp_biubiu_真不卡2","name": "🍀真不卡2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/pirate888/TV/main/json/真不卡影院2.json"},
 		
-		{"key": "csp_biubiu_茶杯狐","name": "🍀茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/茶杯狐.json"}
+		{"key": "csp_biubiu_茶杯狐","name": "🍀茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/pirate888/TV/main/json/茶杯狐.json"}
 	],
 	"lives": [
 		{
