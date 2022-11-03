@@ -1,6 +1,6 @@
 {
 	//"spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
-	"spider": "https://raw.iqiq.io/pirate888/TV/main/jar/h.jar",
+	//"spider": "https://raw.iqiq.io/pirate888/TV/main/jar/h.jar",
 	"wallpaper": "https://picsum.photos/1080/",
 	"sites": [
 		
