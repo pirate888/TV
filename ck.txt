@@ -15,13 +15,13 @@
             "name": "🚧猫影视"
         }, {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "🕍最全接口"
+            "name": "🌈最全接口"
         }, {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🏋🏻每日推送"
+            "name": "🎈每日推送"
         }, {
             "url": "http://刚刚.live/猫",
-            "name": "🌤刚刚的猫"
+            "name": "🐨刚刚的猫"
         }, {
             "url": "https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt",
             "name": "👀一帆风顺"
@@ -36,7 +36,7 @@
             "name": "🐼猫影TV盒"
         }, {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🛣月光宝盒BOX",
+            "name": "🎯月光宝盒BOX",
             "time": "2022-11-5 22:00:00"
         }, {
             "url": "https://raw.iqiq.io/pirate888/JS/main/js.json",
@@ -44,11 +44,11 @@
             "time": "2022-10-27 12:00:00"
         }, {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🛣终南干货群",
+            "name": "🍵终南干货群",
             "time": "2022-10-25 12:00:00"
         }, {
             "url": "https://qiu.moe/m3u8",
-            "name": "🛣zzzlllmmm1",
+            "name": "🌾zzzlllmmm1",
             "time": "2022-10-25 12:00:00"
         }, {
             "url": "https://hk.kstore.space/download/3092/bc.json",
@@ -58,22 +58,23 @@
             "name": "🍀线路3"
         }, {
             "url": "https://pastebin.com/raw/sbPpDm9G",
-            "name": "🚴🏻线路4"
+            "name": "🚴线路4"
         }, {
             "url": "http://www.dmtv.ml/mao/single.json",
             "name": "🌊线路5"
         }, {
-            "url": "https://raw.iqiq.io/pirate888/TV/main/fl.txt",
-            "name": "🛀🏻线路6"
+            //"url": "https://raw.iqiq.io/pirate888/TV/main/fl.txt",
+			"url": "https://download.kstore.space/download/3231/fl.txt",
+            "name": "🛀线路6"
         }, {
             "url": "http://127.0.0.1:8080/a1.json",
-            "name": "🛎本地1"
+            "name": "🐞本地1"
         }, {
             "url": "http://127.0.0.1:8080/a2.json",
             "name": "🎱本地2"
         }, {
             "url": "http://127.0.0.1:8080/a3.json",
-            "name": "🛰本地3"
+            "name": "🐷本地3"
         }, {
             "url": "http://127.0.0.1:8080/a4.json",
             "name": "👙本地4"
@@ -82,10 +83,10 @@
             "name": "🔍本地5"
         }, {
             "url": "http://127.0.0.1:8080/a6.json",
-            "name": "🦆本地6"
+            "name": "❤本地6"
         }, {
             "url": "http://127.0.0.1:8080/a7.json",
-            "name": "🧞本地7"
+            "name": "👒本地7"
         }, {
             "url": "http://127.0.0.1:8080/a8.json",
             "name": "🐤本地8"
@@ -93,6 +94,9 @@
             "url": "http://127.0.0.1:8080/a9.json",
             "name": "💒本地9"
         }
+		
+        //可以显示 ✌ ☘ 🐧 🍋 👑 🈷 🌏 💢 🅱 ⚽ 🎸 🐇 📌 🌸 🐛 🍎 📃 📱 🐬 📽 🏀 🦋 💥 🐢
+        //无法显示 🕍 🏋🏻 🌤 🛣 🛎 🛰 🦆 🧞 🦄 
 
     ],
     "vip": [{
