@@ -1,24 +1,61 @@
 {
-    "urls": [{
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "⛽️默认源"
+    "urls": [
+		{
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🏡多多家庭版",
+            "time": "2022-12-20 12:00:00"
         }, {
-            "url": "http://shagua888168.3vdo.club/",
-            "name": "🐬蓝魔专线",
-            "time": "2022-12-09 14:00:00"
+            "url": "https://download.kstore.space/download/3231/ygbh.json",
+            "name": "🎯月光宝盒BOX",
+            "time": "2023-1-19 21:00:00"
         }, {
-            "url": "https://0dlj.cn/yyds",
-            "name": "🌅多多",
-            "time": "2022-10-25 12:00:00"
+            "url": "http://刚刚.live/猫",
+            "name": "🐨刚刚的猫"
+        }, {
+            "url": "https://hutool.ml/tang",
+            "name": "🌊唐三",
+            "time": "2023-1-19 21:00:00"
         }, {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🌈最全接口"
         }, {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "✌吾爱评测",
+            "time": "2023-1-23 21:00:00"
+        }, {
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "⚽饭团XP",
+            "time": "2023-1-23 21:00:00"
+        }, {
+            "url": "https://源享家.ml/tv",
+            "name": "💢源享家",
+            "time": "2023-1-26 18:00:00"
+        }, {
+            "url": "http://肥猫.love",
+            "name": "🐱肥猫",
+            "time": "2023-1-26 18:00:00"
+        }, {
+            "url": "https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt",
+            "name": "👀软件阿威",
+            "time": "2023-1-21 21:00:00"
+        }, {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "👑云星家庭"
+        }, {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🐼CH猫友️",
+            "time": "2023-1-21 21:00:00"
+        }, {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🍘DXAWi",
+            "time": "2023-1-21 12:00:00"
+        }, {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐬潇洒",
+            "time": "2023-1-21 14:00:00"
+        }, {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🎈每日推送"
-        }, {
-            "url": "http://刚刚.live/猫",
-            "name": "🐨刚刚的猫"
         }, {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🐰老刘备",
@@ -27,104 +64,40 @@
             "url": "http://miaotvs.cn/meow",
             "name": "🚧猫影视"
         }, {
-            "url": "https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt",
-            "name": "👀一帆风顺"
-        }, {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "👑云星一号"
-        }, {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐅云星阿里"
-        }, {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🐼猫影TV盒"
-        }, {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🎯月光宝盒BOX",
-            "time": "2022-11-5 22:00:00"
-        }, {
-            "url": "https://raw.iqiq.io/pirate888/JS/main/js.json",
-            "name": "🍘MyJS",
-            "time": "2022-10-27 12:00:00"
-        }, {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🍵终南干货群",
+            "name": "🍵南风",
             "time": "2022-10-25 12:00:00"
         }, {
-            "url": "http://120.53.102.254/live/cat.txt",
-            "name": "🌾线路1",
-            "time": "2022-12-10 22:00:00"
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🍀FongMi",
+            "time": "2023-1-19 21:00:00"
         }, {
-            "url": "https://hk.kstore.space/download/3092/bc.json",
-            "name": "🎸线路2"
+            "url": "https://la.kstore.space/download/3092/dd.json",
+            "name": "☘视界接口",
+            "time": "2023-1-21 21:00:00"
         }, {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "🍀线路3"
-        }, {
-            "url": "https://pastebin.com/raw/sbPpDm9G",
-            "name": "🚴线路4"
-        }, {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🌊线路5"
-        }, {
-            //"url": "https://raw.iqiq.io/pirate888/TV/main/fl.txt",
-			"url": "https://download.kstore.space/download/3231/fl.txt",
-            "name": "🛀线路6"
+            "url": "https://download.kstore.space/download/3231/fl.txt",
+            "name": "🛀霜辉月明"
         }, {
             "url": "http://127.0.0.1:8080/a1.json",
-            "name": "🐞本地1"
+            "name": "🐞本地测试1"
         }, {
-            "url": "http://127.0.0.1:8080/a2.json",
-            "name": "🎱本地2"
+            "url": "clan://localhost/data/local/tmp/TVBox/a1.json",
+            "name": "🎱本地测试2"
         }, {
-            "url": "http://127.0.0.1:8080/a3.json",
-            "name": "🐷本地3"
+            "url": "clan://localhost/tmp/TVBox/a1.json",
+            "name": "🐷本地测试3"
         }
-		
-		//, {
-        //    "url": "http://127.0.0.1:8080/a4.json",
-        //    "name": "👙本地4"
-        //}, {
-        //    "url": "http://127.0.0.1:8080/a5.json",
-        //    "name": "🔍本地5"
-        //}, {
-        //    "url": "http://127.0.0.1:8080/a6.json",
-        //    "name": "❤本地6"
-        //}, {
-        //    "url": "http://127.0.0.1:8080/a7.json",
-        //    "name": "👒本地7"
-        //}, {
-        //    "url": "http://127.0.0.1:8080/a8.json",
-        //    "name": "🐤本地8"
-        //}, {
-        //    "url": "http://127.0.0.1:8080/a9.json",
-        //    "name": "💒本地9"
-        //}
-		
-        //可以显示 ✌ ☘ 🐧 🍋 🈷 🌏 💢 🅱 ⚽ 🎸 🐇 📌 🌸 🐛 🍎 📃 📱 🏀 🦋 💥 🐢 😻 ⛱ 👓 🐴 🐻 🐯 🐌 
+        //可以显示 😻 🐅 🐤 👙 🔍 💒 ❤ ⛽ 👒 🐧 🍋 🈷 🌏 🅱 🎸 🐇 📌 🌸 🐛 🍎 📃 📱 🏀 🦋 💥 🐢 ⛱ 👓 🐴 🐻 🐯 🐌 🌅 🌾 🎸 🚴 🔥 ⚓ 🔱
         //无法显示 🕍 🏋🏻 🌤 🛣 🛎 🛰 🦆 🧞 🦄 🖼 📽
 
     ],
     "vip": [{
-            "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
-            "name": "68175.txt"
-        }, {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "yeshijieC.json"
+            "name": "yeshijieC"
         }, {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
-            "name": "月光"
-        }, {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "houxian",
-            "time": "2022-08-26 02:00:00"
-        }, {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "wlyz88FL",
-            "time": "2022-08-26 02:00:00"
-        }, {
-            "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
-            "name": "943bc7.txt"
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+            "name": "943bc7"
         }
     ]
 }
