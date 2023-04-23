@@ -1,23 +1,36 @@
 {
     "urls": [
 		{
-            "url": "https://yydsys.top/duo/v.json",
+            "url": "https://yydsys.top/duo/",
             "name": "🏡多多家庭版",
-            "time": "2022-12-20 12:00:00"
+            "time": "2023-3-12 18:00:00"
         }, {
-            "url": "https://download.kstore.space/download/3231/ygbh.json",
-            "name": "🎯月光宝盒BOX",
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🌊巧技",
+            "time": "2023-4-6 10:00:00"
+        }, {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "name": "🌙月光宝盒",
+            "time": "2023-3-12 18:00:00"
+        }, {
+            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🍀FongMI",
             "time": "2023-1-19 21:00:00"
         }, {
             "url": "http://刚刚.live/猫",
-            "name": "🐨刚刚的猫"
-        }, {
-            "url": "https://hutool.ml/tang",
-            "name": "🌊唐三",
-            "time": "2023-1-19 21:00:00"
+            "name": "🐨肥猫不肥",
+            "time": "2023-2-27 09:35:00"
         }, {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🌈最全接口"
+        }, {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🐱俊于",
+            "time": "2023-3-12 19:35:00"
+        }, {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "🌸甜蜜",
+            "time": "2023-2-13 17:00:00"
         }, {
             "url": "http://52bsj.vip:98/wuai",
             "name": "✌吾爱评测",
@@ -27,20 +40,17 @@
             "name": "⚽饭团XP",
             "time": "2023-1-23 21:00:00"
         }, {
-            "url": "https://源享家.ml/tv",
+            "url": "https://源享家.ml/45127",
             "name": "💢源享家",
-            "time": "2023-1-26 18:00:00"
-        }, {
-            "url": "http://肥猫.love",
-            "name": "🐱肥猫",
-            "time": "2023-1-26 18:00:00"
+            "time": "2023-2-13 17:00:00"
         }, {
             "url": "https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt",
             "name": "👀软件阿威",
             "time": "2023-1-21 21:00:00"
         }, {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "👑云星家庭"
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "👑云星家庭",
+            "time": "2023-3-26 09:00:00"
         }, {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🐼CH猫友️",
@@ -57,7 +67,7 @@
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🎈每日推送"
         }, {
-            "url": "https://raw.liucn.cc/box/m.json",
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "🐰老刘备",
             "time": "2022-10-25 12:00:00"
         }, {
@@ -65,39 +75,50 @@
             "name": "🚧猫影视"
         }, {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🍵南风",
+            "name": "🍵Yoursmile7",
             "time": "2022-10-25 12:00:00"
         }, {
-            "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
-            "name": "🍀FongMi",
-            "time": "2023-1-19 21:00:00"
-        }, {
-            "url": "https://la.kstore.space/download/3092/dd.json",
-            "name": "☘视界接口",
-            "time": "2023-1-21 21:00:00"
+            "url": "https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt",
+            "name": "☘佰欣园",
+            "time": "2023-3-14 11:00:00"
         }, {
             "url": "https://download.kstore.space/download/3231/fl.txt",
             "name": "🛀霜辉月明"
         }, {
-            "url": "http://127.0.0.1:8080/a1.json",
-            "name": "🐞本地测试1"
+            "url": "clan://localhost/XYQTVBox/XYQTVBox.json",
+            "name": "⛱香雅情【本地】",
+            "time": "2023-4-1 23:00:00"
         }, {
-            "url": "clan://localhost/data/local/tmp/TVBox/a1.json",
-            "name": "🎱本地测试2"
+            "url": "clan://localhost/TVBox/lib/无忧.json",
+            "name": "🐞无忧【本地】",
+            "time": "2023-4-3 11:00:00"
         }, {
-            "url": "clan://localhost/tmp/TVBox/a1.json",
-            "name": "🐷本地测试3"
+            "url": "clan://localhost/TVBox/lib/多多.txt",
+            "name": "🐇多多【本地】",
+            "time": "2023-4-18 16:00:00"
+        }, {
+            "url": "clan://localhost/TVBox/Hk/XYQTVBox.txt",
+            "name": "🐞海阔【本地】",
+            "time": "2023-4-18 16:00:00"
+        }, {
+            "url": "clan://localhost/TVBox/lib/云星家庭.json",
+            "name": "🎱云星【本地】",
+            "time": "2023-4-3 11:00:00"
+        }, {
+            "url": "clan://localhost/TVBox/lib/月光.json",
+            "name": "🐷月光【本地】",
+            "time": "2023-4-18 16:00:00"
         }
-        //可以显示 😻 🐅 🐤 👙 🔍 💒 ❤ ⛽ 👒 🐧 🍋 🈷 🌏 🅱 🎸 🐇 📌 🌸 🐛 🍎 📃 📱 🏀 🦋 💥 🐢 ⛱ 👓 🐴 🐻 🐯 🐌 🌅 🌾 🎸 🚴 🔥 ⚓ 🔱
+        //可以显示 🎯 😻 🐅 🐤 👙 🔍 💒 ❤ ⛽ 👒 🐧 🍋 🈷 🌏 🅱 🎸  📌 🐛 🍎 📃 📱 🏀 🦋 💥 🐢 👓 🐴 🐻 🐯 🐌 🌅 🌾 🎸 🚴 🔥 ⚓ 🔱
         //无法显示 🕍 🏋🏻 🌤 🛣 🛎 🛰 🦆 🧞 🦄 🖼 📽
 
-    ],
-    "vip": [{
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "yeshijieC"
-        }, {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-            "name": "943bc7"
-        }
+//    ],
+//    "vip": [{
+//            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+//            "name": "yeshijieC"
+//        }, {
+//            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+//            "name": "943bc7"
+//        }
     ]
 }
